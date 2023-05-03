@@ -1,0 +1,17 @@
+body {
+    background-image: url(../img/Pantalla_Negra.jfif);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#botones {
+    margin: 50px 0 0 50px;
+}
+#peliculas {
+    background-color: red;
+    margin: 20px 0 0 20px;
+    width: 1300px;
+}
+.todos {
+    color: white;
+    margin: 20px 0 0 20px;
+}

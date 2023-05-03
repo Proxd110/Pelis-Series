@@ -1,0 +1,25 @@
+body {
+    background-image: url(../img/Pantalla_Negra.jfif);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#Netflix {
+    width: 60%;
+}
+#todo {
+    width: 250px;
+    height: 250px;
+    margin: 150px 0 0 50px;
+    background-color: green;
+}
+#generos {
+    background-color: black;
+}
+#opc_1 {
+    background-color: red;
+    color: white;
+}
+#opc_2 {
+    background-color: blue;
+    color: white;
+}
